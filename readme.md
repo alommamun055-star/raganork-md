@@ -1,4 +1,4 @@
-# Raganork-MD
+# RELAX-MD
 
 <p align="center">
   <a href="https://raganork.site">
